@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -17,4 +19,37 @@ a {
 
 * {
   box-sizing: border-box;
+}
+.gradient-bg {
+  font-size: 18px;
+  /*font-size: 50px;*/
+  background-color: #0f0e13;
+  background-image: radial-gradient(at 0% 0%, hsl(0, 0%, 6%) 0, transparent 50%),
+  radial-gradient(at 0% 0%, hsla(225, 39%, 30%, 1) 0, transparent 50%),
+  radial-gradient(at 100% 100%, hsl(31, 94%, 14%) 0, transparent 50%);
+}
+
+
+.glassmorph{
+  background: rgba(255, 255, 255, 0.21);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.4px);
+  -webkit-backdrop-filter: blur(8.4px);
+  border: 1px solid rgba(255, 255, 255, 0.27);
+}
+
+.blue-glassmorph{
+  background: rgba(87, 137, 207, 0.21);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.4px);
+  -webkit-backdrop-filter: blur(8.4px);
+  border: 1px solid rgba(255, 255, 255, 0.27);
+}
+
+.green-glassmorph{
+  background: rgba(48, 210, 56, 0.125);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8.4px);
+  -webkit-backdrop-filter: blur(8.4px);
+  border: 1px solid rgba(255, 255, 255, 0.27);
 }
