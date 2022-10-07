@@ -4,7 +4,7 @@ import ContainerBlock from '../components/ContainerBlock'
 
 export default function Home() {
   return (
-    <ContainerBlock title="Home Page">
+    <ContainerBlock>
       <div className='lg:flex justify-between py-10 mx-auto'>
         <div className='lg:w-7/12 font-Teko'>
           <p className='lg:text-8xl pl-5 text-5xl lg:p-20'>Mapping your<span className='text-teal-500'> way to success</span>, we go the <span className='text-orange-500'>extra mile.</span></p>
