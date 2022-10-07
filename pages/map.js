@@ -2,7 +2,7 @@ import ContainerBlock from "../components/ContainerBlock";
 
 export default function Map(){
     return(
-        <ContainerBlock>
+        <ContainerBlock title="Map">
             <div className="pb-10 flex flex-wrap-reverse justify-between lg:px-16">
                 <iframe src="https://map-zeroday.vercel.app/" className="lg:w-7/12 w-11/12 mx-auto min-h-[550px] rounded-lg"></iframe>
                 <div className="font-Teko text-6xl lg:w-5/12 flex flex-col justify-center">

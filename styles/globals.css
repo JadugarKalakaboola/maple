@@ -57,3 +57,10 @@ a {
 .button{
   background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
 }
+
+.wonderful-text {
+  background: linear-gradient(
+            to right, #fc5c7d, #6a82fb);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
