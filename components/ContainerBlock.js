@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 
 export default function ContainerBlock({ children, title }){
     return(
-        <div className="gradient-bg text-gray-100">
+        <div className="gradient-bg min-h-screen text-gray-100">
             <div className="py-5">
             <title>{title ? title + ' - Maple' : 'Maple'}</title>
                 <Navbar />

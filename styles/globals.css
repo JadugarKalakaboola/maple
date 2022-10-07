@@ -31,7 +31,7 @@ a {
 
 
 .glassmorph{
-  background: rgba(255, 255, 255, 0.21);
+  background: rgba(101, 120, 128, 0.144);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(8.4px);
   -webkit-backdrop-filter: blur(8.4px);
@@ -39,7 +39,7 @@ a {
 }
 
 .blue-glassmorph{
-  background: rgba(87, 137, 207, 0.21);
+  background: rgba(165, 87, 207, 0.21);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(8.4px);
   -webkit-backdrop-filter: blur(8.4px);
@@ -52,4 +52,8 @@ a {
   backdrop-filter: blur(8.4px);
   -webkit-backdrop-filter: blur(8.4px);
   border: 1px solid rgba(255, 255, 255, 0.27);
+}
+
+.button{
+  background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
 }
