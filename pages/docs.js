@@ -6,7 +6,7 @@ export default function docs() {
         <ContainerBlock title="Documentations">
         <div class="p-6 mx-14 mb-10 mt-8 max-w-[78rem] rounded-lg border shadow-md blue-glassmorph">
             <a href="docs/how-to-select-that-where-do-you-want-to-go">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">How to select that where do you want to go?</h5>
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">How to select that where do you want to go?</h5>
             </a>
             <a href="docs/how-to-select-that-where-do-you-want-to-go" class="inline-flex items-center py-2 mt-3 px-3 text-sm font-medium text-center text-white button rounded-lg focus:ring-4 focus:outline-none">
                 Read more
@@ -16,7 +16,7 @@ export default function docs() {
 
         <div class="p-6 mx-14 mb-10 mt-8 max-w-[78rem] rounded-lg border shadow-md green-glassmorph">
             <a href="docs/how-to-change-color-theme-to-dark">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">How to change color theme to dark?</h5>
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">How to change color theme to dark?</h5>
             </a>
             <a href="docs/how-to-change-color-theme-to-dark" class="inline-flex items-center py-2 mt-3 px-3 text-sm font-medium text-center text-white button rounded-lg focus:ring-4 focus:outline-none">
                 Read more
@@ -26,7 +26,7 @@ export default function docs() {
 
         <div class="p-6 mx-14 mb-10 mt-8 max-w-[78rem] rounded-lg border shadow-md blue-glassmorph">
             <a href="docs/how-to-go-from-a-specific-direction-of-your-choice-to-your-destination">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">How to go from a specific direction of your choice to your destination?</h5>
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">How to go from a specific direction of your choice to your destination?</h5>
             </a>
             <a href="docs/how-to-go-from-a-specific-direction-of-your-choice-to-your-destination" class="inline-flex items-center py-2 mt-3 px-3 text-sm font-medium text-center text-white button rounded-lg focus:ring-4 focus:outline-none">
                 Read more
@@ -36,7 +36,7 @@ export default function docs() {
 
         <div class="p-6 mx-14 mb-10 mt-8 max-w-[78rem] rounded-lg border shadow-md green-glassmorph">
             <a href="docs/how-to-zoom-in-or-out">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">How to zoom in or out?</h5>
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">How to zoom in or out?</h5>
             </a>
             <a href="docs/how-to-zoom-in-or-out" class="inline-flex items-center py-2 mt-3 px-3 text-sm font-medium text-center text-white button rounded-lg focus:ring-4 focus:outline-none">
                 Read more
