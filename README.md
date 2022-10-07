@@ -1,6 +1,6 @@
 ## Maple - Zeroday
 
-> Our webapp (MAPLE) is Nextjs based website which provides you with directions for your journey, We have used the glassmorphism way of styling, which gives it an aesthetic look. We have used the lealfet api to get access to maps and directions. 
+> Our webapp (MAPLE) is Nextjs based website which provides you with directions for your journey, We have used the glassmorphism way of styling, which gives it an aesthetic look. We have used the lealfet api to get access to maps and directions.
 
 ## Authors
 
@@ -15,14 +15,12 @@
 - React.js
 - Eslint
 
-
 ## Installation :wrench:
 
 1. Clone this repo by running `git clone https://github.com/JadugarKalakaboola/maple.git` or manually install the zip folder.
-2. `cd next-js-app`
+2. `cd maple`
 3. `npm install`
 4. `npm run dev`
-
 
 ## Some Additional Details
 
