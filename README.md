@@ -17,6 +17,8 @@
 
 **Made For:** Zero-day
 
+**Map webiste:** https://map-zeroday.vercel.app
+
 **Made By:** Team INT_ELLIGENCE, Army Public School, Delhi Cantt
 
 **Credits**: None of the libraries/frameworks are made by us, All the credit goes to the authors.
