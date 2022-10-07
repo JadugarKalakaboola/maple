@@ -18,7 +18,7 @@
 
 ## Installation :wrench:
 
-1. Clone this repo by running `git clone https://github.com/imranhsayed/next-js-app` or manually install the zip folder.
+1. Clone this repo by running `git clone https://github.com/JadugarKalakaboola/maple.git` or manually install the zip folder.
 2. `cd next-js-app`
 3. `npm install`
 4. `npm run dev`
